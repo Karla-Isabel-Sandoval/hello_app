@@ -1,10 +1,10 @@
 # Ruby on Rails Tutorial
-## "hello, world!"
+## "Hello, World!"
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Reference of what to include in README's :
+Reference -- what to include in README's :
 
 * Ruby version
 
